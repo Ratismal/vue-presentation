@@ -44,5 +44,8 @@ export default {
   target: 'static',
   generate: {
     dir: 'docs'
+  },
+  router: {
+    base: '/vue-presentation/'
   }
 }
